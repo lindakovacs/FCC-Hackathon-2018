@@ -5,7 +5,7 @@ const IndexPage = () => (
   <div>
     <h1>Welcome to </h1> 
     <h1> 2018 freeCodeCamp JAMstack Hackathon!!!!</h1>
-    <h2>October 27-28, 2018 9AM-9PM at GitHub in San Francisco and online </h2>
+    <h2>November 3-4, 2018 9AM-9PM at GitHub in San Francisco and online </h2>
     <h3>My name is Linda Kovacs </h3>
     <p> I am a Remote Freelancer - Web Developer, Web Designer, and Graphic Designer</p>
     <p>I was always interested in computers and I decided to have a job by programming them. 
